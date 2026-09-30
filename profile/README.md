@@ -1,77 +1,53 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:166534&height=220&section=header&text=StackBlazada&fontColor=FFFFFF&fontSize=62&fontAlignY=38&desc=Da%20ideia%20%C3%A0%20opera%C3%A7%C3%A3o&descColor=E5E7EB&descSize=20&descAlignY=60" alt="StackBlazada" width="100%" />
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=2800&pause=900&color=4ADE80&center=true&vCenter=true&multiline=false&width=750&lines=StackBlazada;Technology+%26+Software;Engineering+Digital+Operations;Web+%7C+Cloud+%7C+IA+%7C+Automation">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=2800&pause=900&color=15803D&center=true&vCenter=true&multiline=false&width=750&lines=StackBlazada;Technology+%26+Software;Engineering+Digital+Operations;Web+%7C+Cloud+%7C+IA+%7C+Automation" alt="StackBlazada" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=E5E7EB&center=true&vCenter=true&width=700&lines=Technology+%26+Software+Engineering;Web+%7C+Cloud+%7C+IA+%7C+Automa%C3%A7%C3%A3o;Constru%C3%A7%C3%A3o+e+opera%C3%A7%C3%A3o+de+solu%C3%A7%C3%B5es+digitais">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=1F2937&center=true&vCenter=true&width=700&lines=Technology+%26+Software+Engineering;Web+%7C+Cloud+%7C+IA+%7C+Automa%C3%A7%C3%A3o;Constru%C3%A7%C3%A3o+e+opera%C3%A7%C3%A3o+de+solu%C3%A7%C3%B5es+digitais" alt="Technology & Software Engineering" />
 </picture>
 
+<br/><br/>
+
+<img src="https://img.shields.io/badge/SOFTWARE-1F2937?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/WEB-1F2937?style=for-the-badge&logo=googlechrome&logoColor=white" />
+<img src="https://img.shields.io/badge/AUTOMAÇÃO-1F2937?style=for-the-badge&logo=n8n&logoColor=white" />
+<img src="https://img.shields.io/badge/IA-1F2937?style=for-the-badge&logo=openai&logoColor=white" />
 <br/>
+<img src="https://img.shields.io/badge/CLOUD-1F2937?style=for-the-badge&logo=icloud&logoColor=white" />
+<img src="https://img.shields.io/badge/DEVOPS-1F2937?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/SECURITY-1F2937?style=for-the-badge&logo=letsencrypt&logoColor=white" />
+<img src="https://img.shields.io/badge/DATA-1F2937?style=for-the-badge&logo=postgresql&logoColor=white" />
 
-**Software · Automação · Infraestrutura · Inteligência**
+<br/><br/>
 
-<p>
-  <img src="https://img.shields.io/badge/SOFTWARE-0D1117?style=for-the-badge&logo=code&logoColor=4ADE80" />
-  <img src="https://img.shields.io/badge/WEB-0D1117?style=for-the-badge&logo=googlechrome&logoColor=4ADE80" />
-  <img src="https://img.shields.io/badge/AUTOMAÇÃO-0D1117?style=for-the-badge&logo=n8n&logoColor=4ADE80" />
-  <img src="https://img.shields.io/badge/IA-0D1117?style=for-the-badge&logo=openai&logoColor=4ADE80" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/CLOUD-0D1117?style=for-the-badge&logo=icloud&logoColor=4ADE80" />
-  <img src="https://img.shields.io/badge/DEVOPS-0D1117?style=for-the-badge&logo=docker&logoColor=4ADE80" />
-  <img src="https://img.shields.io/badge/SECURITY-0D1117?style=for-the-badge&logo=linux&logoColor=4ADE80" />
-  <img src="https://img.shields.io/badge/DATA-0D1117?style=for-the-badge&logo=postgresql&logoColor=4ADE80" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/BUILD-374151?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AUTOMATE-374151?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/INTEGRATE-374151?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SCALE-374151?style=for-the-badge" />
-</p>
+<a href="https://stackblazada.com.br">
+  <img src="https://img.shields.io/badge/Website-stackblazada.com.br-166534?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+<a href="https://github.com/StackBlazada">
+  <img src="https://img.shields.io/badge/GitHub-StackBlazada-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
 
----
+<br/>
 
-## ⚡ StackBlazada
+## ⚡ Sobre a StackBlazada
 
-A **StackBlazada** é uma empresa de tecnologia focada em construir e operar soluções digitais completas.
+A **StackBlazada** é uma empresa de tecnologia focada em **construir e operar soluções digitais completas**.
 
-Do primeiro desenho de arquitetura ao software em produção.
-Do processo manual ao workflow automatizado.
-Da infraestrutura ao produto final.
+- Do primeiro desenho de arquitetura ao software em produção.
+- Do processo manual ao workflow automatizado.
+- Da infraestrutura ao produto final.
 
-```text
-PROBLEMA
-   │
-   ▼
-DESCOBERTA
-   │
-   ▼
-ARQUITETURA
-   │
-   ├───────────────┬────────────────┬────────────────┐
-   ▼               ▼                ▼                ▼
- SOFTWARE          WEB           AUTOMAÇÃO          IA
-   │               │                │                │
-   └───────────────┴────────────────┴────────────────┘
-                           │
-                           ▼
-                    INFRAESTRUTURA
-                           │
-                           ▼
-                         CLOUD
-                           │
-                           ▼
-                       PRODUÇÃO
-                           │
-                           ▼
-                         ESCALA
+```mermaid
+flowchart LR
+    A["Problema"] --> B["Descoberta"] --> C["Arquitetura"]
+    C --> D["Software"] & E["Web"] & F["Automação"] & G["IA"]
+    D & E & F & G --> H["Infraestrutura"] --> I["Cloud"] --> J["Produção"] --> K["Escala"]
 ```
 
-> **Não entregamos apenas tecnologia.**
-> **Construímos a operação que existe por trás dela.**
+> **Não entregamos apenas tecnologia. Construímos a operação que existe por trás dela.**
 
 ---
 
@@ -84,14 +60,7 @@ ARQUITETURA
 ### 🌐 Web
 Aplicações e experiências digitais completas.
 
-- Landing Pages
-- Websites
-- Dashboards
-- Portais
-- SaaS
-- E-commerce
-- Sistemas Web
-- APIs
+`Landing Pages` `Websites` `Dashboards` `Portais` `SaaS` `E-commerce` `Sistemas Web` `APIs`
 
 </td>
 <td valign="top" width="33%">
@@ -99,13 +68,7 @@ Aplicações e experiências digitais completas.
 ### 📱 Aplicações
 Produtos digitais para diferentes plataformas.
 
-- Web Apps
-- Mobile
-- PWA
-- Desktop
-- SaaS
-- Aplicações internas
-- Painéis administrativos
+`Web Apps` `Mobile` `PWA` `Desktop` `SaaS` `Aplicações internas` `Painéis administrativos`
 
 </td>
 <td valign="top" width="33%">
@@ -113,14 +76,7 @@ Produtos digitais para diferentes plataformas.
 ### ⚙️ Automação
 Processos conectados e executados automaticamente.
 
-- n8n
-- Workflows
-- Webhooks
-- APIs
-- RPA
-- Jobs
-- Integrações
-- Event-driven
+`n8n` `Workflows` `Webhooks` `APIs` `RPA` `Jobs` `Integrações` `Event-driven`
 
 </td>
 </tr>
@@ -130,14 +86,7 @@ Processos conectados e executados automaticamente.
 ### 🧠 Inteligência Artificial
 IA aplicada a produtos e operações.
 
-- LLMs
-- AI Agents
-- RAG
-- Chatbots
-- Vision
-- Document AI
-- Classificação
-- Automação inteligente
+`LLMs` `AI Agents` `RAG` `Chatbots` `Vision` `Document AI` `Classificação` `Automação inteligente`
 
 </td>
 <td valign="top">
@@ -145,14 +94,7 @@ IA aplicada a produtos e operações.
 ### ☁️ Cloud & Infra
 Infraestrutura preparada para produção.
 
-- Linux
-- Docker
-- Cloud
-- Servers
-- Networking
-- DNS
-- Storage
-- Load Balancing
+`Linux` `Docker` `Cloud` `Servers` `Networking` `DNS` `Storage` `Load Balancing`
 
 </td>
 <td valign="top">
@@ -160,14 +102,7 @@ Infraestrutura preparada para produção.
 ### 🚀 DevOps
 Do commit ao ambiente de produção.
 
-- CI/CD
-- Git
-- Containers
-- Deploy
-- Monitoring
-- Logging
-- Observability
-- Infrastructure as Code
+`CI/CD` `Git` `Containers` `Deploy` `Monitoring` `Logging` `Observability` `IaC`
 
 </td>
 </tr>
@@ -177,14 +112,7 @@ Do commit ao ambiente de produção.
 ### 🗄️ Dados
 Dados confiáveis para aplicações e decisões.
 
-- PostgreSQL
-- MySQL
-- Redis
-- ETL
-- Data Pipelines
-- Backup
-- Optimization
-- Analytics
+`PostgreSQL` `MySQL` `Redis` `ETL` `Data Pipelines` `Backup` `Optimization` `Analytics`
 
 </td>
 <td valign="top">
@@ -192,14 +120,7 @@ Dados confiáveis para aplicações e decisões.
 ### 🔐 Segurança
 Segurança integrada à engenharia.
 
-- Authentication
-- Authorization
-- API Security
-- Hardening
-- Secrets
-- Encryption
-- OWASP
-- Auditing
+`Authentication` `Authorization` `API Security` `Hardening` `Secrets` `Encryption` `OWASP` `Auditing`
 
 </td>
 <td valign="top">
@@ -207,14 +128,7 @@ Segurança integrada à engenharia.
 ### 🔌 Integrações
 Conectamos sistemas que precisam conversar.
 
-- ERP
-- CRM
-- E-commerce
-- Payment
-- WhatsApp
-- Email
-- APIs
-- Legacy Systems
+`ERP` `CRM` `E-commerce` `Payment` `WhatsApp` `Email` `APIs` `Legacy Systems`
 
 </td>
 </tr>
@@ -224,14 +138,7 @@ Conectamos sistemas que precisam conversar.
 ### 🏢 Sistemas Empresariais
 Software para operações reais.
 
-- ERP
-- CRM
-- Financeiro
-- Estoque
-- RH
-- Atendimento
-- Dashboards
-- Backoffice
+`ERP` `CRM` `Financeiro` `Estoque` `RH` `Atendimento` `Dashboards` `Backoffice`
 
 </td>
 <td valign="top">
@@ -239,13 +146,7 @@ Software para operações reais.
 ### 📊 Dados & Analytics
 Transformamos dados em informação útil.
 
-- BI
-- Dashboards
-- Reports
-- KPIs
-- Data Processing
-- ETL / ELT
-- Analytics
+`BI` `Dashboards` `Reports` `KPIs` `Data Processing` `ETL / ELT` `Analytics`
 
 </td>
 <td valign="top">
@@ -253,13 +154,61 @@ Transformamos dados em informação útil.
 ### 🧪 P&D
 Experimentação e novas tecnologias.
 
-- Prototypes
-- Proof of Concept
-- AI
-- Open Source
-- New Architectures
-- Emerging Tech
+`Prototypes` `Proof of Concept` `AI` `Open Source` `New Architectures` `Emerging Tech`
 
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Stack Tecnológica
+
+<table>
+<tr>
+<td width="18%"><b>Backend</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,ts,py,php,laravel&perline=7" />
+</td>
+</tr>
+<tr>
+<td><b>Frontend</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,ts,js,html,css,tailwind&perline=8" />
+</td>
+</tr>
+<tr>
+<td><b>Automação & IA</b></td>
+<td>
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Webhooks-1F2937?style=for-the-badge" />
+<img src="https://img.shields.io/badge/REST_APIs-1F2937?style=for-the-badge" />
+<img src="https://skillicons.dev/icons?i=graphql,rabbitmq&perline=2" />
+</td>
+</tr>
+<tr>
+<td><b>Dados</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,mongodb&perline=4" />
+</td>
+</tr>
+<tr>
+<td><b>Infra & DevOps</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=linux,docker,nginx,git,githubactions,kubernetes,terraform,bash&perline=8" />
+</td>
+</tr>
+<tr>
+<td><b>Cloud</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=aws,cloudflare&perline=2" />
+</td>
+</tr>
+<tr>
+<td><b>Observabilidade</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=grafana,prometheus&perline=2" />
 </td>
 </tr>
 </table>
@@ -268,78 +217,50 @@ Experimentação e novas tecnologias.
 
 ## ⚙️ Automação
 
-A automação é uma das partes centrais da StackBlazada.
-Utilizamos **n8n**, APIs, webhooks, workers, filas e código próprio para conectar processos e sistemas.
+A automação é uma das partes centrais da StackBlazada. Utilizamos **n8n**, APIs, webhooks, workers, filas e código próprio para conectar processos e sistemas.
 
-```text
-                 ┌───────────────┐
-                 │    CLIENTE    │
-                 └───────┬───────┘
-                         │
-                         ▼
-                 ┌───────────────┐
-                 │      n8n      │
-                 │ Orchestration │
-                 └───────┬───────┘
-                         │
-          ┌──────────────┼──────────────┐
-          ▼              ▼              ▼
-      CRM / ERP       WHATSAPP        E-MAIL
-          │              │              │
-          └──────────────┼──────────────┘
-                         ▼
-                         IA
-                         │
-                         ▼
-                     DATABASE
-                         │
-                         ▼
-                       ACTION
+```mermaid
+flowchart TD
+    C["Cliente"] --> N{{"n8n · Orquestração"}}
+    N --> CRM["CRM / ERP"]
+    N --> W["WhatsApp"]
+    N --> E["E-mail"]
+    CRM --> IA["IA"]
+    W --> IA
+    E --> IA
+    IA --> DB[("Database")]
+    DB --> A["Ação"]
 ```
 
-Automação pode significar:
+**Exemplos de fluxo**
 
-```text
-Lead → Qualificação → CRM → IA → Vendedor → Follow-up → Venda → Financeiro → Relatório
+```mermaid
+flowchart LR
+    L1["Lead"] --> L2["Qualificação"] --> L3["CRM"] --> L4["IA"] --> L5["Vendedor"] --> L6["Follow-up"] --> L7["Venda"] --> L8["Financeiro"] --> L9["Relatório"]
 ```
 
-Ou:
-
-```text
-Documento → OCR / IA → Validação → Banco de dados → ERP → Aprovação → Notificação
+```mermaid
+flowchart LR
+    D1["Documento"] --> D2["OCR / IA"] --> D3["Validação"] --> D4["Banco de dados"] --> D5["ERP"] --> D6["Aprovação"] --> D7["Notificação"]
 ```
 
-Ou simplesmente:
-
-```text
-Evento → Workflow → Decisão → Ação
-```
+Ou simplesmente: **Evento → Workflow → Decisão → Ação**
 
 ---
 
 ## 🧠 Inteligência Artificial
 
-Não tratamos IA como uma tecnologia isolada.
-Ela pode fazer parte do produto, da automação ou da operação.
+Não tratamos IA como uma tecnologia isolada. Ela pode fazer parte do produto, da automação ou da operação.
 
-```text
-                    ┌─────────────┐
-                    │     LLM     │
-                    └──────┬──────┘
-                           │
-          ┌────────────────┼────────────────┐
-          ▼                ▼                ▼
-         RAG             AGENTS           VISION
-          │                │                │
-          └────────────────┼────────────────┘
-                           ▼
-                      APPLICATION
-                           │
-                           ▼
-                        BUSINESS
+```mermaid
+flowchart TD
+    LLM["LLM"] --> RAG["RAG"] & AG["Agents"] & VI["Vision"]
+    RAG & AG & VI --> APP["Aplicação"] --> BIZ["Negócio"]
 ```
 
-**Possibilidades**
+<table>
+<tr>
+<td valign="top" width="50%">
 
 - AI Agents
 - RAG
@@ -347,6 +268,10 @@ Ela pode fazer parte do produto, da automação ou da operação.
 - Atendimento inteligente
 - Classificação automática
 - Extração de documentos
+
+</td>
+<td valign="top" width="50%">
+
 - Análise de dados
 - Geração de conteúdo
 - Copilots internos
@@ -354,98 +279,24 @@ Ela pode fazer parte do produto, da automação ou da operação.
 - Automação inteligente
 - Integração com APIs de IA
 
+</td>
+</tr>
+</table>
+
 ---
 
 ## 🏗️ Engenharia de Software
 
-A StackBlazada trabalha com diferentes arquiteturas de acordo com o problema.
+Trabalhamos com diferentes arquiteturas de acordo com o problema.
 
-```text
-Monolith
-    │
-    ├── Modular Monolith
-    │
-    ├── REST APIs
-    │
-    ├── Event-driven
-    │
-    ├── Microservices
-    │
-    └── Distributed Systems
+```mermaid
+flowchart LR
+    M["Monolith"] --> MM["Modular Monolith"] --> RA["REST APIs"] --> ED["Event-driven"] --> MS["Microservices"] --> DS["Distributed Systems"]
 ```
 
 **Princípios**
 
-`SOLID` · `DDD` · `Clean Architecture` · `Clean Code` · `Design Patterns` · `Separation of Concerns` · `API First` · `Security First` · `Observability` · `Automation`
-
----
-
-## 🛠️ Stack Tecnológica
-
-### Backend
-
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-</p>
-
-```text
-Java          ████████████
-Spring Boot   ████████████
-Node.js       ███████████░
-TypeScript    ███████████░
-Python        ██████████░░
-PHP           █████████░░░
-Laravel       █████████░░░
-```
-
-### Frontend
-
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-
-`React` · `Next.js` · `TypeScript` · `JavaScript` · `HTML` · `CSS` · `Tailwind` · `Responsive Design`
-
-### Automation
-
-<p>
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/Webhooks-0D1117?style=for-the-badge&logoColor=4ADE80" />
-  <img src="https://img.shields.io/badge/REST_APIs-0D1117?style=for-the-badge&logoColor=4ADE80" />
-  <img src="https://img.shields.io/badge/RPA-0D1117?style=for-the-badge&logoColor=4ADE80" />
-</p>
-
-`n8n` · `Webhooks` · `REST APIs` · `GraphQL` · `Workers` · `Queues` · `Cron Jobs` · `Event-driven Workflows` · `RPA` · `System Integrations`
-
-### Databases & Data
-
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-</p>
-
-`PostgreSQL` · `MySQL` · `Redis` · `SQL` · `Data Modeling` · `Query Optimization` · `ETL / ELT` · `Caching` · `Backups`
-
-### Infrastructure & DevOps
-
-<p>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-</p>
-
-`Linux` · `Docker` · `Containers` · `CI/CD` · `Git` · `GitHub Actions` · `Reverse Proxy` · `Networking` · `DNS` · `Monitoring` · `Logging` · `Cloud` · `Infrastructure as Code`
+`SOLID` `DDD` `Clean Architecture` `Clean Code` `Design Patterns` `Separation of Concerns` `API First` `Security First` `Observability` `Automation`
 
 ---
 
@@ -455,38 +306,25 @@ Nossa identidade também nasce de uma filosofia muito presente no ecossistema Li
 
 > **Entender o sistema. Controlar o sistema. Automatizar o sistema.**
 
-```text
-Application
-     ↓
-Runtime
-     ↓
-Container
-     ↓
-Linux
-     ↓
-Network
-     ↓
-Hardware / Cloud
+```mermaid
+flowchart TD
+    A["Application"] --> R["Runtime"] --> C["Container"] --> L["Linux"] --> N["Network"] --> H["Hardware / Cloud"]
 ```
 
-Não usamos Linux apenas porque "é Linux".
-Usamos porque **infraestrutura é parte do produto**.
+Não usamos Linux apenas porque "é Linux". Usamos porque **infraestrutura é parte do produto**.
 
 ---
 
-## 🔐 Security
+## 🔐 Segurança
 
-Segurança não é uma etapa adicionada no final.
-É uma preocupação desde a arquitetura.
+Segurança não é uma etapa adicionada no final. É uma preocupação desde a arquitetura.
 
-```text
-Authentication → Authorization → Input Validation → Secrets Management
-      → Encryption → Logging → Monitoring → Auditing
+```mermaid
+flowchart LR
+    A["Authentication"] --> B["Authorization"] --> C["Input Validation"] --> D["Secrets"] --> E["Encryption"] --> F["Logging"] --> G["Monitoring"] --> H["Auditing"]
 ```
 
-**Áreas:**
-
-`OWASP` · `API Security` · `Identity` · `Access Control` · `Secrets` · `Network Security` · `Server Hardening` · `Container Security` · `Secure Development`
+`OWASP` `API Security` `Identity` `Access Control` `Secrets` `Network Security` `Server Hardening` `Container Security` `Secure Development`
 
 ---
 
@@ -494,24 +332,12 @@ Authentication → Authorization → Input Validation → Secrets Management
 
 Projetamos ambientes de acordo com a necessidade da aplicação.
 
-```text
-Development → Staging → Production → Monitoring → Backup → Recovery
+```mermaid
+flowchart LR
+    A["Development"] --> B["Staging"] --> C["Production"] --> D["Monitoring"] --> E["Backup"] --> F["Recovery"]
 ```
 
-**Possibilidades:**
-
-- Cloud Infrastructure
-- VPS
-- Containers
-- Managed Services
-- Object Storage
-- Databases
-- Reverse Proxy
-- CDN
-- DNS
-- Load Balancing
-- Monitoring
-- Backup & Recovery
+`Cloud Infrastructure` `VPS` `Containers` `Managed Services` `Object Storage` `Databases` `Reverse Proxy` `CDN` `DNS` `Load Balancing` `Monitoring` `Backup & Recovery`
 
 ---
 
@@ -519,39 +345,17 @@ Development → Staging → Production → Monitoring → Backup → Recovery
 
 Sistemas precisam conversar. Nós construímos essa ponte.
 
-```text
-┌─────────┐
-│   CRM   │
-└────┬────┘
-     │
-     ▼
-┌─────────┐       ┌─────────┐
-│   n8n   │──────▶│   API   │
-└────┬────┘       └────┬────┘
-     │                 │
-     ▼                 ▼
-┌─────────┐       ┌─────────┐
-│   ERP   │       │   IA    │
-└────┬────┘       └────┬────┘
-     │                 │
-     └────────┬────────┘
-              ▼
-          DATABASE
+```mermaid
+flowchart LR
+    CRM["CRM"] --> N["n8n"]
+    N --> API["API"]
+    N --> ERP["ERP"]
+    API --> IA["IA"]
+    ERP --> DB[("Database")]
+    IA --> DB
 ```
 
-**Integramos:**
-
-- ERPs
-- CRMs
-- E-commerce
-- Gateways de pagamento
-- WhatsApp
-- E-mail
-- APIs externas
-- Sistemas legados
-- Bancos de dados
-- Serviços de IA
-- Ferramentas internas
+`ERPs` `CRMs` `E-commerce` `Gateways de pagamento` `WhatsApp` `E-mail` `APIs externas` `Sistemas legados` `Bancos de dados` `Serviços de IA` `Ferramentas internas`
 
 ---
 
@@ -559,13 +363,12 @@ Sistemas precisam conversar. Nós construímos essa ponte.
 
 Se não sabemos o que está acontecendo, não controlamos o sistema.
 
-```text
-Logs → Metrics → Traces → Alerts → Diagnosis → Resolution
+```mermaid
+flowchart LR
+    A["Logs"] --> B["Metrics"] --> C["Traces"] --> D["Alerts"] --> E["Diagnosis"] --> F["Resolution"]
 ```
 
-**Monitoramos:**
-
-`Availability` · `Latency` · `Errors` · `CPU` · `Memory` · `Storage` · `Requests` · `Jobs` · `Workflows` · `Database` · `Infrastructure`
+`Availability` `Latency` `Errors` `CPU` `Memory` `Storage` `Requests` `Jobs` `Workflows` `Database` `Infrastructure`
 
 ---
 
@@ -575,35 +378,31 @@ Os repositórios da organização são estruturados de acordo com sua finalidade
 
 ```text
 StackBlazada/
-│
-├── applications/
-├── backend/
-├── frontend/
-├── services/
-├── automation/
-├── n8n/
-├── ai/
-├── infrastructure/
-├── devops/
-├── integrations/
-├── libraries/
-├── tools/
-├── data/
-└── experiments/
+├── applications/      # produtos e aplicações finais
+├── backend/           # APIs e serviços de backend
+├── frontend/          # interfaces web
+├── services/          # serviços e microsserviços
+├── automation/        # automações e workers
+├── n8n/               # workflows n8n
+├── ai/                # agentes, RAG, LLMs
+├── infrastructure/    # servidores, cloud, IaC
+├── devops/            # CI/CD, deploy, monitoramento
+├── integrations/      # conectores e integrações
+├── libraries/         # bibliotecas reutilizáveis
+├── tools/             # ferramentas internas
+├── data/              # pipelines, ETL, analytics
+└── experiments/       # P&D e provas de conceito
 ```
 
 ---
 
 ## 🧪 Research & Development
 
-Tecnologia muda. Nós também.
+Tecnologia muda. Nós também. Mantemos espaço para experimentação com:
 
-Mantemos espaço para experimentação com:
+`Artificial Intelligence` `AI Agents` `LLMs` `Automation` `Distributed Systems` `Cloud` `Open Source` `Developer Tools` `New Architectures` `Emerging Technologies`
 
-`Artificial Intelligence` · `AI Agents` · `LLMs` · `Automation` · `Distributed Systems` · `Cloud` · `Open Source` · `Developer Tools` · `New Architectures` · `Emerging Technologies`
-
-> Nem todo experimento vira produto.
-> Mas todo experimento gera conhecimento.
+> Nem todo experimento vira produto. Mas todo experimento gera conhecimento.
 
 ---
 
@@ -611,8 +410,9 @@ Mantemos espaço para experimentação com:
 
 Parte do conhecimento que construímos pode voltar para a comunidade.
 
-```text
-BUILD → DOCUMENT → OPEN → SHARE → IMPROVE
+```mermaid
+flowchart LR
+    A["Build"] --> B["Document"] --> C["Open"] --> D["Share"] --> E["Improve"]
 ```
 
 Projetos, bibliotecas, ferramentas e experimentos que possam ser compartilhados serão publicados aqui.
@@ -621,82 +421,45 @@ Projetos, bibliotecas, ferramentas e experimentos que possam ser compartilhados 
 
 ## 🧭 Nossa filosofia
 
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│  01  UNDERSTAND                                              │
-│      Entender antes de construir.                            │
-│                                                              │
-│  02  DESIGN                                                  │
-│      Arquitetar antes de complicar.                          │
-│                                                              │
-│  03  BUILD                                                   │
-│      Construir para o mundo real.                            │
-│                                                              │
-│  04  AUTOMATE                                                │
-│      Automatizar o que não deveria ser manual.               │
-│                                                              │
-│  05  INTEGRATE                                               │
-│      Fazer sistemas conversarem.                             │
-│                                                              │
-│  06  DEPLOY                                                  │
-│      Software precisa chegar à produção.                     │
-│                                                              │
-│  07  OBSERVE                                                 │
-│      O que não é observado não pode ser melhorado.           │
-│                                                              │
-│  08  SCALE                                                   │
-│      Crescer sem perder controle.                            │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
+| # | Princípio | O que significa |
+|:-:|-----------|-----------------|
+| 01 | **Understand** | Entender antes de construir. |
+| 02 | **Design** | Arquitetar antes de complicar. |
+| 03 | **Build** | Construir para o mundo real. |
+| 04 | **Automate** | Automatizar o que não deveria ser manual. |
+| 05 | **Integrate** | Fazer sistemas conversarem. |
+| 06 | **Deploy** | Software precisa chegar à produção. |
+| 07 | **Observe** | O que não é observado não pode ser melhorado. |
+| 08 | **Scale** | Crescer sem perder controle. |
 
 ---
 
-## ⚡ O princípio
-
 <div align="center">
 
-**A tecnologia é o meio.**
-**A operação é o objetivo.**
+### A tecnologia é o meio. A operação é o objetivo.
 
-```text
-IDEIA → ARQUITETURA → CÓDIGO → AUTOMAÇÃO → INFRA → PRODUÇÃO → RESULTADO
+```mermaid
+flowchart LR
+    A["Ideia"] --> B["Arquitetura"] --> C["Código"] --> D["Automação"] --> E["Infra"] --> F["Produção"] --> G["Resultado"]
 ```
 
-`BUILD SOMETHING THAT WORKS.`
-`AUTOMATE WHAT SHOULD NOT BE MANUAL.`
-`ENGINEER FOR WHAT COMES NEXT.`
+**BUILD SOMETHING THAT WORKS.**
+**AUTOMATE WHAT SHOULD NOT BE MANUAL.**
+**ENGINEER FOR WHAT COMES NEXT.**
 
-</div>
+<br/>
 
----
-
-## 🌐 StackBlazada
-
-<div align="center">
-
-<a href="https://github.com/StackBlazada">
-  <img src="https://img.shields.io/badge/GitHub-StackBlazada-181717?style=for-the-badge&logo=github" />
-</a>
 <a href="https://stackblazada.com.br">
-  <img src="https://img.shields.io/badge/Website-15803D?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/Website-stackblazada.com.br-166534?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+<a href="https://github.com/StackBlazada">
+  <img src="https://img.shields.io/badge/GitHub-StackBlazada-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<br/><br/>
+<br/>
 
-<img src="https://img.shields.io/badge/WEB-374151?style=flat-square" />
-<img src="https://img.shields.io/badge/SOFTWARE-374151?style=flat-square" />
-<img src="https://img.shields.io/badge/AUTOMAÇÃO-374151?style=flat-square" />
-<img src="https://img.shields.io/badge/IA-374151?style=flat-square" />
-<img src="https://img.shields.io/badge/CLOUD-374151?style=flat-square" />
-<img src="https://img.shields.io/badge/DEVOPS-374151?style=flat-square" />
-<img src="https://img.shields.io/badge/SECURITY-374151?style=flat-square" />
+<sub>StackBlazada · Technology & Software Engineering · <b>Da ideia à operação.</b></sub>
 
-<br/><br/>
-
-<sub>StackBlazada · Technology & Software Engineering</sub>
-
-<sub><b>Da ideia à operação.</b></sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:166534,100:0D1117&height=100&section=footer" width="100%" />
 
 </div>
