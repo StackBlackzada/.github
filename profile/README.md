@@ -28,17 +28,19 @@
   <img src="https://img.shields.io/badge/GitHub-StackBlazada-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-</div>
+<br/><br/>
 
-<br/>
+---
 
-## ⚡ Sobre a StackBlazada
+<h2 align="center">⚡ Sobre a StackBlazada</h2>
 
-A **StackBlazada** é uma empresa de tecnologia focada em **construir e operar soluções digitais completas**.
-
-- Do primeiro desenho de arquitetura ao software em produção.
-- Do processo manual ao workflow automatizado.
-- Da infraestrutura ao produto final.
+<p align="center">
+A <b>StackBlazada</b> é uma empresa de tecnologia focada em <b>construir e operar soluções digitais completas</b>.
+<br/><br/>
+Do primeiro desenho de arquitetura ao software em produção.<br/>
+Do processo manual ao workflow automatizado.<br/>
+Da infraestrutura ao produto final.
+</p>
 
 ```mermaid
 flowchart LR
@@ -47,114 +49,102 @@ flowchart LR
     D & E & F & G --> H["Infraestrutura"] --> I["Cloud"] --> J["Produção"] --> K["Escala"]
 ```
 
-> **Não entregamos apenas tecnologia. Construímos a operação que existe por trás dela.**
+<p align="center"><b><i>Não entregamos apenas tecnologia.<br/>Construímos a operação que existe por trás dela.</i></b></p>
 
 ---
 
-## 🧩 O que fazemos
+<h2 align="center">🧩 O que fazemos</h2>
 
-<table>
+<table align="center">
 <tr>
-<td valign="top" width="33%">
+<td align="center" valign="top" width="33%">
 
-### 🌐 Web
-Aplicações e experiências digitais completas.
-
-`Landing Pages` `Websites` `Dashboards` `Portais` `SaaS` `E-commerce` `Sistemas Web` `APIs`
-
-</td>
-<td valign="top" width="33%">
-
-### 📱 Aplicações
-Produtos digitais para diferentes plataformas.
-
-`Web Apps` `Mobile` `PWA` `Desktop` `SaaS` `Aplicações internas` `Painéis administrativos`
+<h3 align="center">🌐 Web</h3>
+<p align="center">Aplicações e experiências digitais completas.</p>
+<p align="center"><code>Landing Pages</code> <code>Websites</code> <code>Dashboards</code> <code>Portais</code> <code>SaaS</code> <code>E-commerce</code> <code>Sistemas Web</code> <code>APIs</code></p>
 
 </td>
-<td valign="top" width="33%">
+<td align="center" valign="top" width="33%">
 
-### ⚙️ Automação
-Processos conectados e executados automaticamente.
+<h3 align="center">📱 Aplicações</h3>
+<p align="center">Produtos digitais para diferentes plataformas.</p>
+<p align="center"><code>Web Apps</code> <code>Mobile</code> <code>PWA</code> <code>Desktop</code> <code>SaaS</code> <code>Aplicações internas</code> <code>Painéis administrativos</code></p>
 
-`n8n` `Workflows` `Webhooks` `APIs` `RPA` `Jobs` `Integrações` `Event-driven`
+</td>
+<td align="center" valign="top" width="33%">
+
+<h3 align="center">⚙️ Automação</h3>
+<p align="center">Processos conectados e executados automaticamente.</p>
+<p align="center"><code>n8n</code> <code>Workflows</code> <code>Webhooks</code> <code>APIs</code> <code>RPA</code> <code>Jobs</code> <code>Integrações</code> <code>Event-driven</code></p>
 
 </td>
 </tr>
 <tr>
-<td valign="top">
+<td align="center" valign="top">
 
-### 🧠 Inteligência Artificial
-IA aplicada a produtos e operações.
-
-`LLMs` `AI Agents` `RAG` `Chatbots` `Vision` `Document AI` `Classificação` `Automação inteligente`
-
-</td>
-<td valign="top">
-
-### ☁️ Cloud & Infra
-Infraestrutura preparada para produção.
-
-`Linux` `Docker` `Cloud` `Servers` `Networking` `DNS` `Storage` `Load Balancing`
+<h3 align="center">🧠 Inteligência Artificial</h3>
+<p align="center">IA aplicada a produtos e operações.</p>
+<p align="center"><code>LLMs</code> <code>AI Agents</code> <code>RAG</code> <code>Chatbots</code> <code>Vision</code> <code>Document AI</code> <code>Classificação</code> <code>Automação inteligente</code></p>
 
 </td>
-<td valign="top">
+<td align="center" valign="top">
 
-### 🚀 DevOps
-Do commit ao ambiente de produção.
+<h3 align="center">☁️ Cloud & Infra</h3>
+<p align="center">Infraestrutura preparada para produção.</p>
+<p align="center"><code>Linux</code> <code>Docker</code> <code>Cloud</code> <code>Servers</code> <code>Networking</code> <code>DNS</code> <code>Storage</code> <code>Load Balancing</code></p>
 
-`CI/CD` `Git` `Containers` `Deploy` `Monitoring` `Logging` `Observability` `IaC`
+</td>
+<td align="center" valign="top">
+
+<h3 align="center">🚀 DevOps</h3>
+<p align="center">Do commit ao ambiente de produção.</p>
+<p align="center"><code>CI/CD</code> <code>Git</code> <code>Containers</code> <code>Deploy</code> <code>Monitoring</code> <code>Logging</code> <code>Observability</code> <code>IaC</code></p>
 
 </td>
 </tr>
 <tr>
-<td valign="top">
+<td align="center" valign="top">
 
-### 🗄️ Dados
-Dados confiáveis para aplicações e decisões.
-
-`PostgreSQL` `MySQL` `Redis` `ETL` `Data Pipelines` `Backup` `Optimization` `Analytics`
-
-</td>
-<td valign="top">
-
-### 🔐 Segurança
-Segurança integrada à engenharia.
-
-`Authentication` `Authorization` `API Security` `Hardening` `Secrets` `Encryption` `OWASP` `Auditing`
+<h3 align="center">🗄️ Dados</h3>
+<p align="center">Dados confiáveis para aplicações e decisões.</p>
+<p align="center"><code>PostgreSQL</code> <code>MySQL</code> <code>Redis</code> <code>ETL</code> <code>Data Pipelines</code> <code>Backup</code> <code>Optimization</code> <code>Analytics</code></p>
 
 </td>
-<td valign="top">
+<td align="center" valign="top">
 
-### 🔌 Integrações
-Conectamos sistemas que precisam conversar.
+<h3 align="center">🔐 Segurança</h3>
+<p align="center">Segurança integrada à engenharia.</p>
+<p align="center"><code>Authentication</code> <code>Authorization</code> <code>API Security</code> <code>Hardening</code> <code>Secrets</code> <code>Encryption</code> <code>OWASP</code> <code>Auditing</code></p>
 
-`ERP` `CRM` `E-commerce` `Payment` `WhatsApp` `Email` `APIs` `Legacy Systems`
+</td>
+<td align="center" valign="top">
+
+<h3 align="center">🔌 Integrações</h3>
+<p align="center">Conectamos sistemas que precisam conversar.</p>
+<p align="center"><code>ERP</code> <code>CRM</code> <code>E-commerce</code> <code>Payment</code> <code>WhatsApp</code> <code>Email</code> <code>APIs</code> <code>Legacy Systems</code></p>
 
 </td>
 </tr>
 <tr>
-<td valign="top">
+<td align="center" valign="top">
 
-### 🏢 Sistemas Empresariais
-Software para operações reais.
-
-`ERP` `CRM` `Financeiro` `Estoque` `RH` `Atendimento` `Dashboards` `Backoffice`
-
-</td>
-<td valign="top">
-
-### 📊 Dados & Analytics
-Transformamos dados em informação útil.
-
-`BI` `Dashboards` `Reports` `KPIs` `Data Processing` `ETL / ELT` `Analytics`
+<h3 align="center">🏢 Sistemas Empresariais</h3>
+<p align="center">Software para operações reais.</p>
+<p align="center"><code>ERP</code> <code>CRM</code> <code>Financeiro</code> <code>Estoque</code> <code>RH</code> <code>Atendimento</code> <code>Dashboards</code> <code>Backoffice</code></p>
 
 </td>
-<td valign="top">
+<td align="center" valign="top">
 
-### 🧪 P&D
-Experimentação e novas tecnologias.
+<h3 align="center">📊 Dados & Analytics</h3>
+<p align="center">Transformamos dados em informação útil.</p>
+<p align="center"><code>BI</code> <code>Dashboards</code> <code>Reports</code> <code>KPIs</code> <code>Data Processing</code> <code>ETL / ELT</code> <code>Analytics</code></p>
 
-`Prototypes` `Proof of Concept` `AI` `Open Source` `New Architectures` `Emerging Tech`
+</td>
+<td align="center" valign="top">
+
+<h3 align="center">🧪 P&D</h3>
+<p align="center">Experimentação e novas tecnologias.</p>
+<p align="center"><code>Prototypes</code> <code>Proof of Concept</code> <code>AI</code> <code>Open Source</code> <code>New Architectures</code> <code>Emerging Tech</code></p>
 
 </td>
 </tr>
@@ -162,24 +152,24 @@ Experimentação e novas tecnologias.
 
 ---
 
-## 🛠️ Stack Tecnológica
+<h2 align="center">🛠️ Stack Tecnológica</h2>
 
-<table>
+<table align="center">
 <tr>
-<td width="18%"><b>Backend</b></td>
-<td>
+<td align="center"><b>Backend</b></td>
+<td align="center">
 <img src="https://skillicons.dev/icons?i=java,spring,nodejs,ts,py,php,laravel&perline=7" />
 </td>
 </tr>
 <tr>
-<td><b>Frontend</b></td>
-<td>
+<td align="center"><b>Frontend</b></td>
+<td align="center">
 <img src="https://skillicons.dev/icons?i=react,nextjs,vue,ts,js,html,css,tailwind&perline=8" />
 </td>
 </tr>
 <tr>
-<td><b>Automação & IA</b></td>
-<td>
+<td align="center"><b>Automação & IA</b></td>
+<td align="center">
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/Webhooks-1F2937?style=for-the-badge" />
@@ -188,26 +178,26 @@ Experimentação e novas tecnologias.
 </td>
 </tr>
 <tr>
-<td><b>Dados</b></td>
-<td>
+<td align="center"><b>Dados</b></td>
+<td align="center">
 <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,mongodb&perline=4" />
 </td>
 </tr>
 <tr>
-<td><b>Infra & DevOps</b></td>
-<td>
+<td align="center"><b>Infra & DevOps</b></td>
+<td align="center">
 <img src="https://skillicons.dev/icons?i=linux,docker,nginx,git,githubactions,kubernetes,terraform,bash&perline=8" />
 </td>
 </tr>
 <tr>
-<td><b>Cloud</b></td>
-<td>
+<td align="center"><b>Cloud</b></td>
+<td align="center">
 <img src="https://skillicons.dev/icons?i=aws,cloudflare&perline=2" />
 </td>
 </tr>
 <tr>
-<td><b>Observabilidade</b></td>
-<td>
+<td align="center"><b>Observabilidade</b></td>
+<td align="center">
 <img src="https://skillicons.dev/icons?i=grafana,prometheus&perline=2" />
 </td>
 </tr>
@@ -215,9 +205,12 @@ Experimentação e novas tecnologias.
 
 ---
 
-## ⚙️ Automação
+<h2 align="center">⚙️ Automação</h2>
 
-A automação é uma das partes centrais da StackBlazada. Utilizamos **n8n**, APIs, webhooks, workers, filas e código próprio para conectar processos e sistemas.
+<p align="center">
+A automação é uma das partes centrais da StackBlazada.<br/>
+Utilizamos <b>n8n</b>, APIs, webhooks, workers, filas e código próprio para conectar processos e sistemas.
+</p>
 
 ```mermaid
 flowchart TD
@@ -232,7 +225,7 @@ flowchart TD
     DB --> A["Ação"]
 ```
 
-**Exemplos de fluxo**
+<p align="center"><b>Exemplos de fluxo</b></p>
 
 ```mermaid
 flowchart LR
@@ -244,13 +237,16 @@ flowchart LR
     D1["Documento"] --> D2["OCR / IA"] --> D3["Validação"] --> D4["Banco de dados"] --> D5["ERP"] --> D6["Aprovação"] --> D7["Notificação"]
 ```
 
-Ou simplesmente: **Evento → Workflow → Decisão → Ação**
+<p align="center">Ou simplesmente: <b>Evento → Workflow → Decisão → Ação</b></p>
 
 ---
 
-## 🧠 Inteligência Artificial
+<h2 align="center">🧠 Inteligência Artificial</h2>
 
-Não tratamos IA como uma tecnologia isolada. Ela pode fazer parte do produto, da automação ou da operação.
+<p align="center">
+Não tratamos IA como uma tecnologia isolada.<br/>
+Ela pode fazer parte do produto, da automação ou da operação.
+</p>
 
 ```mermaid
 flowchart TD
@@ -258,92 +254,89 @@ flowchart TD
     RAG & AG & VI --> APP["Aplicação"] --> BIZ["Negócio"]
 ```
 
-<table>
-<tr>
-<td valign="top" width="50%">
+<p align="center"><b>Possibilidades</b></p>
 
-- AI Agents
-- RAG
-- Chatbots
-- Atendimento inteligente
-- Classificação automática
-- Extração de documentos
-
-</td>
-<td valign="top" width="50%">
-
-- Análise de dados
-- Geração de conteúdo
-- Copilots internos
-- Processamento de linguagem
-- Automação inteligente
-- Integração com APIs de IA
-
-</td>
-</tr>
-</table>
+<p align="center">
+<code>AI Agents</code> <code>RAG</code> <code>Chatbots</code> <code>Atendimento inteligente</code> <code>Classificação automática</code> <code>Extração de documentos</code> <code>Análise de dados</code> <code>Geração de conteúdo</code> <code>Copilots internos</code> <code>Processamento de linguagem</code> <code>Automação inteligente</code> <code>Integração com APIs de IA</code>
+</p>
 
 ---
 
-## 🏗️ Engenharia de Software
+<h2 align="center">🏗️ Engenharia de Software</h2>
 
-Trabalhamos com diferentes arquiteturas de acordo com o problema.
+<p align="center">Trabalhamos com diferentes arquiteturas de acordo com o problema.</p>
 
 ```mermaid
 flowchart LR
     M["Monolith"] --> MM["Modular Monolith"] --> RA["REST APIs"] --> ED["Event-driven"] --> MS["Microservices"] --> DS["Distributed Systems"]
 ```
 
-**Princípios**
+<p align="center"><b>Princípios</b></p>
 
-`SOLID` `DDD` `Clean Architecture` `Clean Code` `Design Patterns` `Separation of Concerns` `API First` `Security First` `Observability` `Automation`
+<p align="center">
+<code>SOLID</code> <code>DDD</code> <code>Clean Architecture</code> <code>Clean Code</code> <code>Design Patterns</code> <code>Separation of Concerns</code> <code>API First</code> <code>Security First</code> <code>Observability</code> <code>Automation</code>
+</p>
 
 ---
 
-## 🐧 Linux Engineering
+<h2 align="center">🐧 Linux Engineering</h2>
 
-Nossa identidade também nasce de uma filosofia muito presente no ecossistema Linux:
-
-> **Entender o sistema. Controlar o sistema. Automatizar o sistema.**
+<p align="center">
+Nossa identidade também nasce de uma filosofia muito presente no ecossistema Linux:<br/><br/>
+<b><i>Entender o sistema. Controlar o sistema. Automatizar o sistema.</i></b>
+</p>
 
 ```mermaid
 flowchart TD
     A["Application"] --> R["Runtime"] --> C["Container"] --> L["Linux"] --> N["Network"] --> H["Hardware / Cloud"]
 ```
 
-Não usamos Linux apenas porque "é Linux". Usamos porque **infraestrutura é parte do produto**.
+<p align="center">
+Não usamos Linux apenas porque "é Linux".<br/>
+Usamos porque <b>infraestrutura é parte do produto</b>.
+</p>
 
 ---
 
-## 🔐 Segurança
+<h2 align="center">🔐 Segurança</h2>
 
-Segurança não é uma etapa adicionada no final. É uma preocupação desde a arquitetura.
+<p align="center">
+Segurança não é uma etapa adicionada no final.<br/>
+É uma preocupação desde a arquitetura.
+</p>
 
 ```mermaid
 flowchart LR
     A["Authentication"] --> B["Authorization"] --> C["Input Validation"] --> D["Secrets"] --> E["Encryption"] --> F["Logging"] --> G["Monitoring"] --> H["Auditing"]
 ```
 
-`OWASP` `API Security` `Identity` `Access Control` `Secrets` `Network Security` `Server Hardening` `Container Security` `Secure Development`
+<p align="center">
+<code>OWASP</code> <code>API Security</code> <code>Identity</code> <code>Access Control</code> <code>Secrets</code> <code>Network Security</code> <code>Server Hardening</code> <code>Container Security</code> <code>Secure Development</code>
+</p>
 
 ---
 
-## ☁️ Cloud
+<h2 align="center">☁️ Cloud</h2>
 
-Projetamos ambientes de acordo com a necessidade da aplicação.
+<p align="center">Projetamos ambientes de acordo com a necessidade da aplicação.</p>
 
 ```mermaid
 flowchart LR
     A["Development"] --> B["Staging"] --> C["Production"] --> D["Monitoring"] --> E["Backup"] --> F["Recovery"]
 ```
 
-`Cloud Infrastructure` `VPS` `Containers` `Managed Services` `Object Storage` `Databases` `Reverse Proxy` `CDN` `DNS` `Load Balancing` `Monitoring` `Backup & Recovery`
+<p align="center">
+<code>Cloud Infrastructure</code> <code>VPS</code> <code>Containers</code> <code>Managed Services</code> <code>Object Storage</code> <code>Databases</code> <code>Reverse Proxy</code> <code>CDN</code> <code>DNS</code> <code>Load Balancing</code> <code>Monitoring</code> <code>Backup & Recovery</code>
+</p>
 
 ---
 
-## 🔌 Integrações
+<h2 align="center">🔌 Integrações</h2>
 
-Sistemas precisam conversar. Nós construímos essa ponte.
+<p align="center">
+Sistemas precisam conversar.<br/>
+Nós construímos essa ponte.
+</p>
 
 ```mermaid
 flowchart LR
@@ -355,28 +348,36 @@ flowchart LR
     IA --> DB
 ```
 
-`ERPs` `CRMs` `E-commerce` `Gateways de pagamento` `WhatsApp` `E-mail` `APIs externas` `Sistemas legados` `Bancos de dados` `Serviços de IA` `Ferramentas internas`
+<p align="center">
+<code>ERPs</code> <code>CRMs</code> <code>E-commerce</code> <code>Gateways de pagamento</code> <code>WhatsApp</code> <code>E-mail</code> <code>APIs externas</code> <code>Sistemas legados</code> <code>Bancos de dados</code> <code>Serviços de IA</code> <code>Ferramentas internas</code>
+</p>
 
 ---
 
-## 📊 Observabilidade
+<h2 align="center">📊 Observabilidade</h2>
 
-Se não sabemos o que está acontecendo, não controlamos o sistema.
+<p align="center">Se não sabemos o que está acontecendo, não controlamos o sistema.</p>
 
 ```mermaid
 flowchart LR
     A["Logs"] --> B["Metrics"] --> C["Traces"] --> D["Alerts"] --> E["Diagnosis"] --> F["Resolution"]
 ```
 
-`Availability` `Latency` `Errors` `CPU` `Memory` `Storage` `Requests` `Jobs` `Workflows` `Database` `Infrastructure`
+<p align="center">
+<code>Availability</code> <code>Latency</code> <code>Errors</code> <code>CPU</code> <code>Memory</code> <code>Storage</code> <code>Requests</code> <code>Jobs</code> <code>Workflows</code> <code>Database</code> <code>Infrastructure</code>
+</p>
 
 ---
 
-## 📦 Ecossistema
+<h2 align="center">📦 Ecossistema</h2>
 
-Os repositórios da organização são estruturados de acordo com sua finalidade.
+<p align="center">Os repositórios da organização são estruturados de acordo com sua finalidade.</p>
 
-```text
+<table align="center">
+<tr>
+<td>
+
+<pre>
 StackBlazada/
 ├── applications/      # produtos e aplicações finais
 ├── backend/           # APIs e serviços de backend
@@ -392,60 +393,73 @@ StackBlazada/
 ├── tools/             # ferramentas internas
 ├── data/              # pipelines, ETL, analytics
 └── experiments/       # P&D e provas de conceito
-```
+</pre>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🧪 Research & Development
+<h2 align="center">🧪 Research & Development</h2>
 
-Tecnologia muda. Nós também. Mantemos espaço para experimentação com:
+<p align="center">Tecnologia muda. Nós também.<br/>Mantemos espaço para experimentação com:</p>
 
-`Artificial Intelligence` `AI Agents` `LLMs` `Automation` `Distributed Systems` `Cloud` `Open Source` `Developer Tools` `New Architectures` `Emerging Technologies`
+<p align="center">
+<code>Artificial Intelligence</code> <code>AI Agents</code> <code>LLMs</code> <code>Automation</code> <code>Distributed Systems</code> <code>Cloud</code> <code>Open Source</code> <code>Developer Tools</code> <code>New Architectures</code> <code>Emerging Technologies</code>
+</p>
 
-> Nem todo experimento vira produto. Mas todo experimento gera conhecimento.
+<p align="center"><i>Nem todo experimento vira produto.<br/>Mas todo experimento gera conhecimento.</i></p>
 
 ---
 
-## 🌱 Open Source
+<h2 align="center">🌱 Open Source</h2>
 
-Parte do conhecimento que construímos pode voltar para a comunidade.
+<p align="center">Parte do conhecimento que construímos pode voltar para a comunidade.</p>
 
 ```mermaid
 flowchart LR
     A["Build"] --> B["Document"] --> C["Open"] --> D["Share"] --> E["Improve"]
 ```
 
-Projetos, bibliotecas, ferramentas e experimentos que possam ser compartilhados serão publicados aqui.
+<p align="center">Projetos, bibliotecas, ferramentas e experimentos que possam ser compartilhados serão publicados aqui.</p>
 
 ---
 
-## 🧭 Nossa filosofia
+<h2 align="center">🧭 Nossa filosofia</h2>
 
-| # | Princípio | O que significa |
-|:-:|-----------|-----------------|
-| 01 | **Understand** | Entender antes de construir. |
-| 02 | **Design** | Arquitetar antes de complicar. |
-| 03 | **Build** | Construir para o mundo real. |
-| 04 | **Automate** | Automatizar o que não deveria ser manual. |
-| 05 | **Integrate** | Fazer sistemas conversarem. |
-| 06 | **Deploy** | Software precisa chegar à produção. |
-| 07 | **Observe** | O que não é observado não pode ser melhorado. |
-| 08 | **Scale** | Crescer sem perder controle. |
+<table align="center">
+<tr>
+<th align="center">#</th>
+<th align="center">Princípio</th>
+<th align="center">O que significa</th>
+</tr>
+<tr><td align="center">01</td><td align="center"><b>Understand</b></td><td align="center">Entender antes de construir.</td></tr>
+<tr><td align="center">02</td><td align="center"><b>Design</b></td><td align="center">Arquitetar antes de complicar.</td></tr>
+<tr><td align="center">03</td><td align="center"><b>Build</b></td><td align="center">Construir para o mundo real.</td></tr>
+<tr><td align="center">04</td><td align="center"><b>Automate</b></td><td align="center">Automatizar o que não deveria ser manual.</td></tr>
+<tr><td align="center">05</td><td align="center"><b>Integrate</b></td><td align="center">Fazer sistemas conversarem.</td></tr>
+<tr><td align="center">06</td><td align="center"><b>Deploy</b></td><td align="center">Software precisa chegar à produção.</td></tr>
+<tr><td align="center">07</td><td align="center"><b>Observe</b></td><td align="center">O que não é observado não pode ser melhorado.</td></tr>
+<tr><td align="center">08</td><td align="center"><b>Scale</b></td><td align="center">Crescer sem perder controle.</td></tr>
+</table>
 
 ---
 
-<div align="center">
+<h2 align="center">⚡ O princípio</h2>
 
-### A tecnologia é o meio. A operação é o objetivo.
+<h3 align="center">A tecnologia é o meio.<br/>A operação é o objetivo.</h3>
 
 ```mermaid
 flowchart LR
     A["Ideia"] --> B["Arquitetura"] --> C["Código"] --> D["Automação"] --> E["Infra"] --> F["Produção"] --> G["Resultado"]
 ```
 
-**BUILD SOMETHING THAT WORKS.**
-**AUTOMATE WHAT SHOULD NOT BE MANUAL.**
-**ENGINEER FOR WHAT COMES NEXT.**
+<p align="center">
+<b>BUILD SOMETHING THAT WORKS.</b><br/>
+<b>AUTOMATE WHAT SHOULD NOT BE MANUAL.</b><br/>
+<b>ENGINEER FOR WHAT COMES NEXT.</b>
+</p>
 
 <br/>
 
@@ -456,7 +470,7 @@ flowchart LR
   <img src="https://img.shields.io/badge/GitHub-StackBlazada-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<br/>
+<br/><br/>
 
 <sub>StackBlazada · Technology & Software Engineering · <b>Da ideia à operação.</b></sub>
 
