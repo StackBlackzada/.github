@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=2800&pause=900&color=39FF14&center=true&vCenter=true&multiline=false&width=750&lines=StackBlazada;Technology+%26+Software;Engineering+Digital+Operations;Web+%7C+Cloud+%7C+IA+%7C+Automation">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=2800&pause=900&color=39FF14&center=true&vCenter=true&multiline=false&width=750&lines=StackBlazada;Technology+%26+Software;Engineering+Digital+Operations;Web+%7C+Cloud+%7C+IA+%7C+Automation" alt="StackBlazada" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=2800&pause=900&color=4ADE80&center=true&vCenter=true&multiline=false&width=750&lines=StackBlazada;Technology+%26+Software;Engineering+Digital+Operations;Web+%7C+Cloud+%7C+IA+%7C+Automation">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=2800&pause=900&color=15803D&center=true&vCenter=true&multiline=false&width=750&lines=StackBlazada;Technology+%26+Software;Engineering+Digital+Operations;Web+%7C+Cloud+%7C+IA+%7C+Automation" alt="StackBlazada" />
 </picture>
 
 <br/>
@@ -10,24 +10,24 @@
 **Software · Automação · Infraestrutura · Inteligência**
 
 <p>
-  <img src="https://img.shields.io/badge/SOFTWARE-0D1117?style=for-the-badge&logo=code&logoColor=39FF14" />
-  <img src="https://img.shields.io/badge/WEB-0D1117?style=for-the-badge&logo=googlechrome&logoColor=39FF14" />
-  <img src="https://img.shields.io/badge/AUTOMAÇÃO-0D1117?style=for-the-badge&logo=n8n&logoColor=39FF14" />
-  <img src="https://img.shields.io/badge/IA-0D1117?style=for-the-badge&logo=openai&logoColor=39FF14" />
+  <img src="https://img.shields.io/badge/SOFTWARE-0D1117?style=for-the-badge&logo=code&logoColor=4ADE80" />
+  <img src="https://img.shields.io/badge/WEB-0D1117?style=for-the-badge&logo=googlechrome&logoColor=4ADE80" />
+  <img src="https://img.shields.io/badge/AUTOMAÇÃO-0D1117?style=for-the-badge&logo=n8n&logoColor=4ADE80" />
+  <img src="https://img.shields.io/badge/IA-0D1117?style=for-the-badge&logo=openai&logoColor=4ADE80" />
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/CLOUD-0D1117?style=for-the-badge&logo=icloud&logoColor=39FF14" />
-  <img src="https://img.shields.io/badge/DEVOPS-0D1117?style=for-the-badge&logo=docker&logoColor=39FF14" />
-  <img src="https://img.shields.io/badge/SECURITY-0D1117?style=for-the-badge&logo=linux&logoColor=39FF14" />
-  <img src="https://img.shields.io/badge/DATA-0D1117?style=for-the-badge&logo=postgresql&logoColor=39FF14" />
+  <img src="https://img.shields.io/badge/CLOUD-0D1117?style=for-the-badge&logo=icloud&logoColor=4ADE80" />
+  <img src="https://img.shields.io/badge/DEVOPS-0D1117?style=for-the-badge&logo=docker&logoColor=4ADE80" />
+  <img src="https://img.shields.io/badge/SECURITY-0D1117?style=for-the-badge&logo=linux&logoColor=4ADE80" />
+  <img src="https://img.shields.io/badge/DATA-0D1117?style=for-the-badge&logo=postgresql&logoColor=4ADE80" />
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/BUILD-39FF14?style=for-the-badge&labelColor=0D1117&logoColor=0D1117" />
-  <img src="https://img.shields.io/badge/AUTOMATE-39FF14?style=for-the-badge&labelColor=0D1117&logoColor=0D1117" />
-  <img src="https://img.shields.io/badge/INTEGRATE-39FF14?style=for-the-badge&labelColor=0D1117&logoColor=0D1117" />
-  <img src="https://img.shields.io/badge/SCALE-39FF14?style=for-the-badge&labelColor=0D1117&logoColor=0D1117" />
+  <img src="https://img.shields.io/badge/BUILD-374151?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AUTOMATE-374151?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/INTEGRATE-374151?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SCALE-374151?style=for-the-badge" />
 </p>
 
 </div>
@@ -419,9 +419,9 @@ Laravel       █████████░░░
 
 <p>
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/Webhooks-0D1117?style=for-the-badge&logoColor=39FF14" />
-  <img src="https://img.shields.io/badge/REST_APIs-0D1117?style=for-the-badge&logoColor=39FF14" />
-  <img src="https://img.shields.io/badge/RPA-0D1117?style=for-the-badge&logoColor=39FF14" />
+  <img src="https://img.shields.io/badge/Webhooks-0D1117?style=for-the-badge&logoColor=4ADE80" />
+  <img src="https://img.shields.io/badge/REST_APIs-0D1117?style=for-the-badge&logoColor=4ADE80" />
+  <img src="https://img.shields.io/badge/RPA-0D1117?style=for-the-badge&logoColor=4ADE80" />
 </p>
 
 `n8n` · `Webhooks` · `REST APIs` · `GraphQL` · `Workers` · `Queues` · `Cron Jobs` · `Event-driven Workflows` · `RPA` · `System Integrations`
@@ -680,18 +680,18 @@ IDEIA → ARQUITETURA → CÓDIGO → AUTOMAÇÃO → INFRA → PRODUÇÃO → R
   <img src="https://img.shields.io/badge/GitHub-StackBlazada-181717?style=for-the-badge&logo=github" />
 </a>
 <a href="https://stackblazada.com.br">
-  <img src="https://img.shields.io/badge/Website-39FF14?style=for-the-badge&logo=googlechrome&logoColor=0D1117" />
+  <img src="https://img.shields.io/badge/Website-15803D?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/WEB-39FF14?style=flat-square&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/SOFTWARE-39FF14?style=flat-square&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/AUTOMAÇÃO-39FF14?style=flat-square&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/IA-39FF14?style=flat-square&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/CLOUD-39FF14?style=flat-square&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/DEVOPS-39FF14?style=flat-square&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/SECURITY-39FF14?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/WEB-374151?style=flat-square" />
+<img src="https://img.shields.io/badge/SOFTWARE-374151?style=flat-square" />
+<img src="https://img.shields.io/badge/AUTOMAÇÃO-374151?style=flat-square" />
+<img src="https://img.shields.io/badge/IA-374151?style=flat-square" />
+<img src="https://img.shields.io/badge/CLOUD-374151?style=flat-square" />
+<img src="https://img.shields.io/badge/DEVOPS-374151?style=flat-square" />
+<img src="https://img.shields.io/badge/SECURITY-374151?style=flat-square" />
 
 <br/><br/>
 
