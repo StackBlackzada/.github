@@ -1,41 +1,41 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:166534&height=240&section=header&text=StackBlazada&fontColor=FFFFFF&fontSize=64&fontAlignY=38&desc=Da%20ideia%20%C3%A0%20opera%C3%A7%C3%A3o&descColor=E5E7EB&descSize=20&descAlignY=60" alt="StackBlazada" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:14B8A6&height=240&section=header&text=StackBlackzada&fontColor=FFFFFF&fontSize=64&fontAlignY=38&desc=Da%20ideia%20%C3%A0%20opera%C3%A7%C3%A3o&descColor=E5E7EB&descSize=20&descAlignY=60" alt="StackBlackzada" width="100%" />
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=E5E7EB&center=true&vCenter=true&width=760&lines=Technology+%26+Software+Engineering;Web+%7C+Cloud+%7C+IA+%7C+Automa%C3%A7%C3%A3o;Do+primeiro+desenho+ao+software+em+produ%C3%A7%C3%A3o;Constru%C3%A7%C3%A3o+e+opera%C3%A7%C3%A3o+de+solu%C3%A7%C3%B5es+digitais">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=1F2937&center=true&vCenter=true&width=760&lines=Technology+%26+Software+Engineering;Web+%7C+Cloud+%7C+IA+%7C+Automa%C3%A7%C3%A3o;Do+primeiro+desenho+ao+software+em+produ%C3%A7%C3%A3o;Constru%C3%A7%C3%A3o+e+opera%C3%A7%C3%A3o+de+solu%C3%A7%C3%B5es+digitais" alt="Technology & Software Engineering" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=2DF5E0&center=true&vCenter=true&width=760&lines=Technology+%26+Software+Engineering;Web+%7C+Cloud+%7C+IA+%7C+Automa%C3%A7%C3%A3o;Do+primeiro+desenho+ao+software+em+produ%C3%A7%C3%A3o;Constru%C3%A7%C3%A3o+e+opera%C3%A7%C3%A3o+de+solu%C3%A7%C3%B5es+digitais">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=0F766E&center=true&vCenter=true&width=760&lines=Technology+%26+Software+Engineering;Web+%7C+Cloud+%7C+IA+%7C+Automa%C3%A7%C3%A3o;Do+primeiro+desenho+ao+software+em+produ%C3%A7%C3%A3o;Constru%C3%A7%C3%A3o+e+opera%C3%A7%C3%A3o+de+solu%C3%A7%C3%B5es+digitais" alt="Technology & Software Engineering" />
 </picture>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/SOFTWARE-1F2937?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-<img src="https://img.shields.io/badge/WEB-1F2937?style=for-the-badge&logo=googlechrome&logoColor=white" />
-<img src="https://img.shields.io/badge/AUTOMAÇÃO-1F2937?style=for-the-badge&logo=n8n&logoColor=white" />
-<img src="https://img.shields.io/badge/IA-1F2937?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/SOFTWARE-1F2937?style=for-the-badge&logo=visualstudiocode&logoColor=2DF5E0" />
+<img src="https://img.shields.io/badge/WEB-1F2937?style=for-the-badge&logo=googlechrome&logoColor=2DF5E0" />
+<img src="https://img.shields.io/badge/AUTOMAÇÃO-1F2937?style=for-the-badge&logo=n8n&logoColor=2DF5E0" />
+<img src="https://img.shields.io/badge/IA-1F2937?style=for-the-badge&logo=openai&logoColor=2DF5E0" />
 <br/>
-<img src="https://img.shields.io/badge/CLOUD-1F2937?style=for-the-badge&logo=icloud&logoColor=white" />
-<img src="https://img.shields.io/badge/DEVOPS-1F2937?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/SECURITY-1F2937?style=for-the-badge&logo=letsencrypt&logoColor=white" />
-<img src="https://img.shields.io/badge/DATA-1F2937?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/CLOUD-1F2937?style=for-the-badge&logo=icloud&logoColor=2DF5E0" />
+<img src="https://img.shields.io/badge/DEVOPS-1F2937?style=for-the-badge&logo=docker&logoColor=2DF5E0" />
+<img src="https://img.shields.io/badge/SECURITY-1F2937?style=for-the-badge&logo=letsencrypt&logoColor=2DF5E0" />
+<img src="https://img.shields.io/badge/DATA-1F2937?style=for-the-badge&logo=postgresql&logoColor=2DF5E0" />
 
 <br/><br/>
 
 <a href="https://stackblazada.com.br">
-  <img src="https://img.shields.io/badge/Website-stackblazada.com.br-166534?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/Website-stackblazada.com.br-14B8A6?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 <a href="https://github.com/StackBlazada">
-  <img src="https://img.shields.io/badge/GitHub-StackBlazada-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-StackBlackzada-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:166534&height=3" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:2DF5E0&height=3" width="100%" />
 
-<h2 align="center">⚡ Sobre a StackBlazada</h2>
+<h2 align="center">⚡ Sobre a StackBlackzada</h2>
 
 <p align="center">
-A <b>StackBlazada</b> é uma empresa de tecnologia focada em <b>construir e operar soluções digitais completas</b>.
+A <b>StackBlackzada</b> é uma empresa de tecnologia focada em <b>construir e operar soluções digitais completas</b>.
 <br/><br/>
 Do primeiro desenho de arquitetura ao software em produção.<br/>
 Do processo manual ao workflow automatizado.<br/>
@@ -76,21 +76,21 @@ flowchart LR
     A["Problema"] --> B["Descoberta"] --> C["Arquitetura"]
     C --> D["Software"] & E["Web"] & F["Automação"] & G["IA"]
     D & E & F & G --> H["Infraestrutura"] --> I["Cloud"] --> J["Produção"] --> K["Escala"]
-    classDef d fill:#1F2937,stroke:#166534,color:#fff,stroke-width:2px
-    classDef hot fill:#166534,stroke:#166534,color:#fff,stroke-width:2px
+    classDef d fill:#1F2937,stroke:#2DF5E0,color:#fff,stroke-width:2px
+    classDef hot fill:#14B8A6,stroke:#2DF5E0,color:#fff,stroke-width:2px
     class A,B,C,D,E,F,G,H,I,J d
     class K hot
 ```
 
 <p align="center"><b><i>Não entregamos apenas tecnologia.<br/>Construímos a operação que existe por trás dela.</i></b></p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:166534&height=3" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:2DF5E0&height=3" width="100%" />
 
 <h2 align="center">🗺️ Mapa de capacidades</h2>
 
 ```mermaid
 mindmap
-  root((StackBlazada))
+  root((StackBlackzada))
     Software
       Backend
       Frontend
@@ -124,7 +124,7 @@ mindmap
       Auditoria
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:166534&height=3" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:2DF5E0&height=3" width="100%" />
 
 <h2 align="center">🧩 O que fazemos</h2>
 
@@ -223,7 +223,7 @@ mindmap
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:166534&height=3" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:2DF5E0&height=3" width="100%" />
 
 <h2 align="center">🎯 Exemplos de soluções</h2>
 
@@ -270,7 +270,7 @@ mindmap
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:166534&height=3" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:2DF5E0&height=3" width="100%" />
 
 <h2 align="center">🔄 Como trabalhamos</h2>
 
@@ -317,7 +317,7 @@ mindmap
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:166534&height=3" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:2DF5E0&height=3" width="100%" />
 
 <h2 align="center">🛠️ Stack Tecnológica</h2>
 
@@ -376,11 +376,11 @@ mindmap
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:166534&height=3" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:2DF5E0&height=3" width="100%" />
 
 <h2 align="center">🏛️ Arquitetura de referência</h2>
 
-<p align="center">Como uma solução típica da StackBlazada fica organizada em produção.</p>
+<p align="center">Como uma solução típica da StackBlackzada fica organizada em produção.</p>
 
 ```mermaid
 flowchart TB
@@ -415,12 +415,12 @@ flowchart TB
     CI -.-> Aplicacao
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:166534&height=3" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:2DF5E0&height=3" width="100%" />
 
 <h2 align="center">⚙️ Automação</h2>
 
 <p align="center">
-A automação é uma das partes centrais da StackBlazada.<br/>
+A automação é uma das partes centrais da StackBlackzada.<br/>
 Utilizamos <b>n8n</b>, APIs, webhooks, workers, filas e código próprio para conectar processos e sistemas.
 </p>
 
@@ -435,8 +435,8 @@ flowchart TD
     E --> IA
     IA --> DB[("Database")]
     DB --> A["Ação"]
-    classDef d fill:#1F2937,stroke:#166534,color:#fff,stroke-width:2px
-    classDef hot fill:#166534,stroke:#166534,color:#fff,stroke-width:2px
+    classDef d fill:#1F2937,stroke:#2DF5E0,color:#fff,stroke-width:2px
+    classDef hot fill:#14B8A6,stroke:#2DF5E0,color:#fff,stroke-width:2px
     class C,CRM,W,E,IA,DB,A d
     class N hot
 ```
@@ -446,20 +446,20 @@ flowchart TD
 ```mermaid
 flowchart LR
     L1["Lead"] --> L2["Qualificação"] --> L3["CRM"] --> L4["IA"] --> L5["Vendedor"] --> L6["Follow-up"] --> L7["Venda"] --> L8["Financeiro"] --> L9["Relatório"]
-    classDef d fill:#1F2937,stroke:#166534,color:#fff,stroke-width:2px
+    classDef d fill:#1F2937,stroke:#2DF5E0,color:#fff,stroke-width:2px
     class L1,L2,L3,L4,L5,L6,L7,L8,L9 d
 ```
 
 ```mermaid
 flowchart LR
     D1["Documento"] --> D2["OCR / IA"] --> D3["Validação"] --> D4["Banco de dados"] --> D5["ERP"] --> D6["Aprovação"] --> D7["Notificação"]
-    classDef d fill:#1F2937,stroke:#166534,color:#fff,stroke-width:2px
+    classDef d fill:#1F2937,stroke:#2DF5E0,color:#fff,stroke-width:2px
     class D1,D2,D3,D4,D5,D6,D7 d
 ```
 
 <p align="center">Ou simplesmente: <b>Evento → Workflow → Decisão → Ação</b></p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:166534&height=3" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:2DF5E0&height=3" width="100%" />
 
 <h2 align="center">🧠 Inteligência Artificial</h2>
 
@@ -472,8 +472,8 @@ Ela pode fazer parte do produto, da automação ou da operação.
 flowchart TD
     LLM["LLM"] --> RAG["RAG"] & AG["Agents"] & VI["Vision"]
     RAG & AG & VI --> APP["Aplicação"] --> BIZ["Negócio"]
-    classDef d fill:#1F2937,stroke:#166534,color:#fff,stroke-width:2px
-    classDef hot fill:#166534,stroke:#166534,color:#fff,stroke-width:2px
+    classDef d fill:#1F2937,stroke:#2DF5E0,color:#fff,stroke-width:2px
+    classDef hot fill:#14B8A6,stroke:#2DF5E0,color:#fff,stroke-width:2px
     class LLM,RAG,AG,VI,APP d
     class BIZ hot
 ```
@@ -484,7 +484,7 @@ flowchart TD
 <code>AI Agents</code> <code>RAG</code> <code>Chatbots</code> <code>Atendimento inteligente</code> <code>Classificação automática</code> <code>Extração de documentos</code> <code>Análise de dados</code> <code>Geração de conteúdo</code> <code>Copilots internos</code> <code>Processamento de linguagem</code> <code>Automação inteligente</code> <code>Integração com APIs de IA</code>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:166534&height=3" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:2DF5E0&height=3" width="100%" />
 
 <h2 align="center">🏗️ Engenharia de Software</h2>
 
@@ -493,7 +493,7 @@ flowchart TD
 ```mermaid
 flowchart LR
     M["Monolith"] --> MM["Modular Monolith"] --> RA["REST APIs"] --> ED["Event-driven"] --> MS["Microservices"] --> DS["Distributed Systems"]
-    classDef d fill:#1F2937,stroke:#166534,color:#fff,stroke-width:2px
+    classDef d fill:#1F2937,stroke:#2DF5E0,color:#fff,stroke-width:2px
     class M,MM,RA,ED,MS,DS d
 ```
 
@@ -503,7 +503,7 @@ flowchart LR
 <code>SOLID</code> <code>DDD</code> <code>Clean Architecture</code> <code>Clean Code</code> <code>Design Patterns</code> <code>Separation of Concerns</code> <code>API First</code> <code>Security First</code> <code>Observability</code> <code>Automation</code>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:166534&height=3" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:2DF5E0&height=3" width="100%" />
 
 <h2 align="center">🚀 DevOps e entrega contínua</h2>
 
@@ -513,11 +513,11 @@ flowchart LR
 flowchart LR
     C["Commit"] --> B["Build"] --> T["Testes"] --> S["Análise de segurança"] --> D["Deploy"] --> O["Observabilidade"]
     O -.-> C
-    classDef d fill:#1F2937,stroke:#166534,color:#fff,stroke-width:2px
+    classDef d fill:#1F2937,stroke:#2DF5E0,color:#fff,stroke-width:2px
     class C,B,T,S,D,O d
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:166534&height=3" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:2DF5E0&height=3" width="100%" />
 
 <h2 align="center">🐧 Linux Engineering</h2>
 
@@ -529,7 +529,7 @@ Nossa identidade também nasce de uma filosofia muito presente no ecossistema Li
 ```mermaid
 flowchart TD
     A["Application"] --> R["Runtime"] --> C["Container"] --> L["Linux"] --> N["Network"] --> H["Hardware / Cloud"]
-    classDef d fill:#1F2937,stroke:#166534,color:#fff,stroke-width:2px
+    classDef d fill:#1F2937,stroke:#2DF5E0,color:#fff,stroke-width:2px
     class A,R,C,L,N,H d
 ```
 
@@ -538,7 +538,7 @@ Não usamos Linux apenas porque "é Linux".<br/>
 Usamos porque <b>infraestrutura é parte do produto</b>.
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:166534&height=3" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:2DF5E0&height=3" width="100%" />
 
 <h2 align="center">🔐 Segurança</h2>
 
@@ -550,7 +550,7 @@ Segurança não é uma etapa adicionada no final.<br/>
 ```mermaid
 flowchart LR
     A["Authentication"] --> B["Authorization"] --> C["Input Validation"] --> D["Secrets"] --> E["Encryption"] --> F["Logging"] --> G["Monitoring"] --> H["Auditing"]
-    classDef d fill:#1F2937,stroke:#166534,color:#fff,stroke-width:2px
+    classDef d fill:#1F2937,stroke:#2DF5E0,color:#fff,stroke-width:2px
     class A,B,C,D,E,F,G,H d
 ```
 
@@ -558,7 +558,7 @@ flowchart LR
 <code>OWASP</code> <code>API Security</code> <code>Identity</code> <code>Access Control</code> <code>Secrets</code> <code>Network Security</code> <code>Server Hardening</code> <code>Container Security</code> <code>Secure Development</code>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:166534&height=3" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:2DF5E0&height=3" width="100%" />
 
 <h2 align="center">☁️ Cloud</h2>
 
@@ -567,7 +567,7 @@ flowchart LR
 ```mermaid
 flowchart LR
     A["Development"] --> B["Staging"] --> C["Production"] --> D["Monitoring"] --> E["Backup"] --> F["Recovery"]
-    classDef d fill:#1F2937,stroke:#166534,color:#fff,stroke-width:2px
+    classDef d fill:#1F2937,stroke:#2DF5E0,color:#fff,stroke-width:2px
     class A,B,C,D,E,F d
 ```
 
@@ -575,7 +575,7 @@ flowchart LR
 <code>Cloud Infrastructure</code> <code>VPS</code> <code>Containers</code> <code>Managed Services</code> <code>Object Storage</code> <code>Databases</code> <code>Reverse Proxy</code> <code>CDN</code> <code>DNS</code> <code>Load Balancing</code> <code>Monitoring</code> <code>Backup & Recovery</code>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:166534&height=3" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:2DF5E0&height=3" width="100%" />
 
 <h2 align="center">🔌 Integrações</h2>
 
@@ -592,8 +592,8 @@ flowchart LR
     API --> IA["IA"]
     ERP --> DB[("Database")]
     IA --> DB
-    classDef d fill:#1F2937,stroke:#166534,color:#fff,stroke-width:2px
-    classDef hot fill:#166534,stroke:#166534,color:#fff,stroke-width:2px
+    classDef d fill:#1F2937,stroke:#2DF5E0,color:#fff,stroke-width:2px
+    classDef hot fill:#14B8A6,stroke:#2DF5E0,color:#fff,stroke-width:2px
     class CRM,API,ERP,IA,DB d
     class N hot
 ```
@@ -602,7 +602,7 @@ flowchart LR
 <code>ERPs</code> <code>CRMs</code> <code>E-commerce</code> <code>Gateways de pagamento</code> <code>WhatsApp</code> <code>E-mail</code> <code>APIs externas</code> <code>Sistemas legados</code> <code>Bancos de dados</code> <code>Serviços de IA</code> <code>Ferramentas internas</code>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:166534&height=3" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:2DF5E0&height=3" width="100%" />
 
 <h2 align="center">📊 Observabilidade</h2>
 
@@ -611,7 +611,7 @@ flowchart LR
 ```mermaid
 flowchart LR
     A["Logs"] --> B["Metrics"] --> C["Traces"] --> D["Alerts"] --> E["Diagnosis"] --> F["Resolution"]
-    classDef d fill:#1F2937,stroke:#166534,color:#fff,stroke-width:2px
+    classDef d fill:#1F2937,stroke:#2DF5E0,color:#fff,stroke-width:2px
     class A,B,C,D,E,F d
 ```
 
@@ -619,7 +619,7 @@ flowchart LR
 <code>Availability</code> <code>Latency</code> <code>Errors</code> <code>CPU</code> <code>Memory</code> <code>Storage</code> <code>Requests</code> <code>Jobs</code> <code>Workflows</code> <code>Database</code> <code>Infrastructure</code>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:166534&height=3" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:2DF5E0&height=3" width="100%" />
 
 <h2 align="center">📦 Ecossistema</h2>
 
@@ -630,7 +630,7 @@ flowchart LR
 <td>
 
 <pre>
-StackBlazada/
+StackBlackzada/
 ├── applications/      # produtos e aplicações finais
 ├── backend/           # APIs e serviços de backend
 ├── frontend/          # interfaces web
@@ -651,7 +651,7 @@ StackBlazada/
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:166534&height=3" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:2DF5E0&height=3" width="100%" />
 
 <h2 align="center">🧪 Research & Development</h2>
 
@@ -663,7 +663,7 @@ StackBlazada/
 
 <p align="center"><i>Nem todo experimento vira produto.<br/>Mas todo experimento gera conhecimento.</i></p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:166534&height=3" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:2DF5E0&height=3" width="100%" />
 
 <h2 align="center">🌱 Open Source</h2>
 
@@ -673,13 +673,13 @@ StackBlazada/
 flowchart LR
     A["Build"] --> B["Document"] --> C["Open"] --> D["Share"] --> E["Improve"]
     E -.-> A
-    classDef d fill:#1F2937,stroke:#166534,color:#fff,stroke-width:2px
+    classDef d fill:#1F2937,stroke:#2DF5E0,color:#fff,stroke-width:2px
     class A,B,C,D,E d
 ```
 
 <p align="center">Projetos, bibliotecas, ferramentas e experimentos que possam ser compartilhados serão publicados aqui.</p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:166534&height=3" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:2DF5E0&height=3" width="100%" />
 
 <h2 align="center">🧭 Nossa filosofia</h2>
 
@@ -699,7 +699,7 @@ flowchart LR
 <tr><td align="center">08</td><td align="center"><b>Scale</b></td><td align="center">Crescer sem perder controle.</td></tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:166534&height=3" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:2DF5E0&height=3" width="100%" />
 
 <h2 align="center">⚡ O princípio</h2>
 
@@ -708,8 +708,8 @@ flowchart LR
 ```mermaid
 flowchart LR
     A["Ideia"] --> B["Arquitetura"] --> C["Código"] --> D["Automação"] --> E["Infra"] --> F["Produção"] --> G["Resultado"]
-    classDef d fill:#1F2937,stroke:#166534,color:#fff,stroke-width:2px
-    classDef hot fill:#166534,stroke:#166534,color:#fff,stroke-width:2px
+    classDef d fill:#1F2937,stroke:#2DF5E0,color:#fff,stroke-width:2px
+    classDef hot fill:#14B8A6,stroke:#2DF5E0,color:#fff,stroke-width:2px
     class A,B,C,D,E,F d
     class G hot
 ```
@@ -720,17 +720,17 @@ flowchart LR
 <b>ENGINEER FOR WHAT COMES NEXT.</b>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:166534&height=3" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:2DF5E0&height=3" width="100%" />
 
 <h2 align="center">📬 Vamos conversar?</h2>
 
 <p align="center">Tem um processo manual, um sistema travado ou uma ideia que precisa virar produto?</p>
 
 <a href="https://stackblazada.com.br">
-  <img src="https://img.shields.io/badge/Website-stackblazada.com.br-166534?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/Website-stackblazada.com.br-14B8A6?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 <a href="https://github.com/StackBlazada">
-  <img src="https://img.shields.io/badge/GitHub-StackBlazada-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-StackBlackzada-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <!--
@@ -740,17 +740,17 @@ Quando quiser, descomenta e troca pelos seus contatos:
   <img src="https://img.shields.io/badge/E--mail-contato-1F2937?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://wa.me/55DDDNUMERO">
-  <img src="https://img.shields.io/badge/WhatsApp-falar%20agora-166534?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <img src="https://img.shields.io/badge/WhatsApp-falar%20agora-14B8A6?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/company/SEU-PERFIL">
-  <img src="https://img.shields.io/badge/LinkedIn-StackBlazada-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-StackBlackzada-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 -->
 
 <br/><br/>
 
-<sub>StackBlazada · Technology & Software Engineering · <b>Da ideia à operação.</b></sub>
+<sub>StackBlackzada · Technology & Software Engineering · <b>Da ideia à operação.</b></sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:166534,100:0D1117&height=110&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:14B8A6,100:0D1117&height=110&section=footer" width="100%" />
 
 </div>
