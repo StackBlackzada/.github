@@ -470,11 +470,16 @@ Ela pode fazer parte do produto, da automação ou da operação.
 
 ```mermaid
 flowchart TD
-    LLM["LLM"] --> RAG["RAG"] & AG["Agents"] & VI["Vision"]
-    RAG & AG & VI --> APP["Aplicação"] --> BIZ["Negócio"]
+    LLM["LLM"] --> RAG["RAG"]
+    LLM --> AGT["Agents"]
+    LLM --> VIS["Vision"]
+    RAG --> APP["Aplicação"]
+    AGT --> APP
+    VIS --> APP
+    APP --> BIZ["Negócio"]
     classDef d fill:#1F2937,stroke:#2DF5E0,color:#fff,stroke-width:2px
     classDef hot fill:#14B8A6,stroke:#2DF5E0,color:#fff,stroke-width:2px
-    class LLM,RAG,AG,VI,APP d
+    class LLM,RAG,AGT,VIS,APP d
     class BIZ hot
 ```
 
